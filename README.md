@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sach3s3kl
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning JavaScript
 
 
 
